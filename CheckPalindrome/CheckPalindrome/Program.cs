@@ -4,18 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TheJourneyBegins_Add
+namespace CheckPalindrome
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int add(int param1, int param2)
+            bool checkPalindrome(string inputString)
             {
-                int sum = (param1 + param2);
-                Console.WriteLine(sum);
-                return sum;
+                // string.split
+                // compare first char to end char?
             }
+
         }
     }
 }
