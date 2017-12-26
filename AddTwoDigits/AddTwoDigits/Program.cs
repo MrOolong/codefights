@@ -11,6 +11,7 @@ namespace AddTwoDigits
         static void Main(string[] args)
         {
             // You are given a two-digit integer n. Return the sum of its digits.
+            int[] newArray = n.Length;
         }
     }
 }
